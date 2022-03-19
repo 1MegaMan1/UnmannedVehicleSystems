@@ -1,4 +1,6 @@
 %%%%%%%%%%%%%%% Track Vehicle Parameter %%%%%%%%%%%%%%%%%%%%%%%%%
+%% multiple tunes are shown in the comments due to the different locations we had to test in and find new parameters. 
+
 b = (92/70)*.31;%0.5842 ; % [m] Effective Platform Width = Diagonal length
              % Actual Width = 0.3556 m
 rNominal = 0.052959; % [m] Nominal Wheel Radius
