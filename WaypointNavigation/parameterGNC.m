@@ -6,7 +6,7 @@ bDR = 1*b;
 eTickDR = eTick;
 TsampleEncoderDR = TsampleEncoder;
 TauEncoderDR = 0.1;
-%%
+%% below will show comments there were tunes used based on what area we were testing.
 
 %%%%%%%%%%%%%%%%%%% control parameter %%%%%%%%%%%%%%%%%%%%%%%%%%%
 % 1:speed, 2:angle
