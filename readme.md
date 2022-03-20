@@ -56,24 +56,25 @@
 Objective of this course is to give Introduction to the technologies needed to create an
 UVS (Unmanned Vehicle System) and to get hands on exposure on integration of these
 technologies (embodied as a set of sensors, actuators, and computing and mobility platform
-sub-systems) into a functioning UVS through team work. UVS could be designed to compete
+sub-systems) into a functioning UVS through teamwork. UVS could be designed to compete
 in a student competition sponsored by various technical organizations or to support a specific
 mission or function defined by the instructors.
+
 Moreover, this course gives hands on exposure to the technologies and engineering meth-
 ods used to develop and deploy Unmanned Vehicle Systems. To learn about cool technology
 from the perspective of multiple engineering disciplines like Computer Science, Mechanical,
 Aerospace, and Industrial Engineering Departments. Project experiences that would typi-
 cally fall outside his/her main area of study challenging the student to explore the inherently
 multi-disciplinary nature of todays complex engineered systems.[1]
+
 In this project we developed a UGV (unmanned ground Vehicle). An UGV is a vehicle
 that operates while in contact with the ground and without an onboard human presence.
 UGVs can be used for many applications where it may be inconvenient, dangerous, or im-
 possible to have a human operator present. Generally, the vehicle will have a set of sensors
 to observe the environment, and will either autonomously make decisions about its behavior
-
-
 or pass the information to a human operator at a different location who will control the
 vehicle through teleportation.[2]
+
 We may find that UGV systems are used in applications in the fields of civil and military
 industry. It can be used by emergency services such as fire brigades, ambulances, police,
 etc Providing a great support for a wide variety of tasks, including: assistance to disabled
@@ -84,6 +85,7 @@ mobility support. Depending on their size and purpose, they can be extremely por
 they can even be able to avoid obstacles autonomously. In order to increase their capabilities
 with latest technological advances, incremental improvements have been made in hard-
 ware, software, payloads, structure
+
 In conclusion, UGV systems are very versatile platforms that permit operations in con-
 ditions where there are certain human risks, as in missions with biological, radiological and
 chemical emergencies or with risks of explosions, etc We cannot forget that Veronte Autopi-
