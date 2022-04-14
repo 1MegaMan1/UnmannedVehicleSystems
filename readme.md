@@ -60,12 +60,17 @@ sub-systems) into a functioning UVS through teamwork. UVS could be designed to c
 in a student competition sponsored by various technical organizations or to support a specific
 mission or function defined by the instructors.
 
-Moreover, this course gives hands on exposure to the technologies and engineering meth-
-ods used to develop and deploy Unmanned Vehicle Systems. To learn about cool technology
+Moreover, this course gives hands on exposure to the technologies and engineering methods 
+used to develop and deploy Unmanned Vehicle Systems. To learn about cool technology
 from the perspective of multiple engineering disciplines like Computer Science, Mechanical,
-Aerospace, and Industrial Engineering Departments. Project experiences that would typi-
-cally fall outside his/her main area of study challenging the student to explore the inherently
+Aerospace, and Industrial Engineering Departments. Project experiences that would typically fall 
+outside his/her main area of study challenging the student to explore the inherently
 multi-disciplinary nature of todays complex engineered systems.[1]
+
+However, in my personal case I started to work on automative repair and home repair. Due to my 
+interests my parents bought me LEGOs, electrical boards, etc. I was familiar with eletric,
+mechanical aspects, but still learning the software aspects. But I grew an appreciation of the 
+structured approach laid out and incoperated it into my processes I had already developed.
 
 In this project we developed a UGV (unmanned ground Vehicle). An UGV is a vehicle
 that operates while in contact with the ground and without an onboard human presence.
@@ -79,18 +84,17 @@ We may find that UGV systems are used in applications in the fields of civil and
 industry. It can be used by emergency services such as fire brigades, ambulances, police,
 etc Providing a great support for a wide variety of tasks, including: assistance to disabled
 people, fumigation, harvesting, transporting, patrol monitoring and detection, investigation,
-exploration and inspection at tunnels, buildings, etc
+exploration and inspection at tunnels, buildings, etc.
 UGV systems are flexible robotic platforms developed to provide powerful multipurpose
 mobility support. Depending on their size and purpose, they can be extremely portables and
 they can even be able to avoid obstacles autonomously. In order to increase their capabilities
-with latest technological advances, incremental improvements have been made in hard-
-ware, software, payloads, structure
+with latest technological advances, incremental improvements have been made in hardware, 
+software, payloads, structure.
 
-In conclusion, UGV systems are very versatile platforms that permit operations in con-
-ditions where there are certain human risks, as in missions with biological, radiological and
-chemical emergencies or with risks of explosions, etc We cannot forget that Veronte Autopi-
-lot installed in Unmanned Ground Vehicles, improves their automation and safety in any
-application.[3]
+In conclusion, UGV systems are very versatile platforms that permit operations in conditions 
+where there are certain human risks, as in missions with biological, radiological and
+chemical emergencies or with risks of explosions, etc We cannot forget that Veronte Auto-pilot 
+installed in Unmanned Ground Vehicles, improves their automation and safety in any application.[3]
 
 
 # Chapter 2
