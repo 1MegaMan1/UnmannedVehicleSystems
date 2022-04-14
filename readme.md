@@ -142,7 +142,7 @@ Ninja flex material and was placed on the chassis in order to support the compon
 CAD model of the rover is presented in figure 2.2.
 
 
-![Alt Text](https://github.com/rohitnagvenkar/UnmannedVehicleSystems/raw/master/UVS_images/image009.jpg)
+![Alt Text](https://github.com/1MegaMan1/UnmannedVehicleSystems/blob/main/UVS_images/image009.jpg)
 ```
 Figure 2.2: CAD Model of Rover with Hardware Mounted
 ```
@@ -155,7 +155,7 @@ planner by connecting through USB. Latest firmware 3.5 was automatically downloa
 and installed but since the version used was pixhawk 2, old compatible firmware 3.4.2 was
 installed for appropriate calibrations.
 
-![Alt Text](https://github.com/rohitnagvenkar/UnmannedVehicleSystems/raw/master/UVS_images/image011.jpg)
+![Alt Text](https://github.com/1MegaMan1/UnmannedVehicleSystems/blob/main/UVS_images/image011.jpg)
 ```
 Figure 2.3: Pixhawk connections
 ```
@@ -170,7 +170,7 @@ presented in figure 2.4. The converted PWM signal is then used to control the po
 of the motors using dual channel H bridge. The gear switch on the RC is also configured
 with Safety Override System in case of an emergency.
 
-![Alt Text](https://github.com/rohitnagvenkar/UnmannedVehicleSystems/raw/master/UVS_images/image013.jpg)
+![Alt Text](https://github.com/1MegaMan1/UnmannedVehicleSystems/blob/main/UVS_images/image013.jpg)
 ```
 Figure 2.4: Circuit Diagram
 ```
