@@ -122,10 +122,15 @@ were required:
 3. Nickle-metal hydride battery (7.2V)
 4. Teensy
 5. Teensy battery (5V)
+
     6. Pixhawk
+  
     7. RC transmitter and receiver
+
     8. GPS
+   
     9. Telemetry
+
     10. Power module
 
 ### 2.2 CAD Model
